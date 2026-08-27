@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper and this repository."
+title: "Long-Term District Heating Transition Optimization"
+type: software
+license: MIT
+authors:
+  - family-names: "Ali"
+    given-names: "Hesham"
+version: "0.1.0"
+date-released: "2026-08-27"
+repository-code: "https://github.com/Hesham-A/Seq-Transition-Optimisation.git"
