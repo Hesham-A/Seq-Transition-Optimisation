@@ -95,4 +95,4 @@ The optimization formulation and parameterization should be read together with t
 
 ## Citation
 
-Please cite the associated paper when using this code. A `CITATION.cff` file is provided as a template and should be completed with the final paper DOI and repository DOI when available.
+Please cite the associated paper when using this code. 
